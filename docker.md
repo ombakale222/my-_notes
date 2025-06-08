@@ -1,0 +1,1 @@
+docker ps - use to check the running image
