@@ -1,27 +1,3 @@
-dghsrghdjhgfhrgthtr
-
-```button
-name commit
-type command
-action Git: Commit all changes
-color blue
-```
-^button-btib
-
-```button
-name push
-type command
-action Git: Push
-```
-^button-0tqg
-
-```button
-name pull
-type command
-action Git: Pull
-color red
-```
-^button-geez
 ### **1. General DevOps Tools**
 
 - Ansible
@@ -168,3 +144,26 @@ Here is a list of **popular open-source Infrastructure as Code (IaC) and Infrast
 |**Argo CD**|Declarative GitOps continuous delivery for Kubernetes.|
 |**Flux CD**|GitOps tool for Kubernetes (CNCF incubated).|
 |**Spinnaker**|Multi-cloud continuous delivery platform.|
+
+```button
+name commit
+type command
+action Git: Commit all changes
+color blue
+```
+^button-btib
+
+```button
+name push
+type command
+action Git: Push
+```
+^button-0tqg
+
+```button
+name pull
+type command
+action Git: Pull
+color red
+```
+^button-geez
